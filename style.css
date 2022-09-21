@@ -1,0 +1,10 @@
+.bola{
+    width: 70px;
+    height: 65px;
+    border-radius: 25px;
+    background-image: url("./imagem/pato.png");
+    background-size: 70px,65px;
+    position: absolute;
+    cursor:crosshair;
+ 
+}
